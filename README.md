@@ -3,7 +3,8 @@
 A Python-based GUI application for controlling a **Keithley 6514 Electrometer** via **GPIB** to perform long-duration, high-resistance voltage measurements.  
 The program provides real-time plotting, configurable acquisition parameters, and data export to CSV and MAT formats.
 
-The GUI is built with **Tkinter**, communication is handled via **PyVISA**, and data visualization uses **Matplotlib**.
+
+Note: The current GUI code for Python still has several known or unknown issues. However, the provided MATLAB version code is usable. You should run this code using MATLAB 2021a or a later version.
 
 ---
 
